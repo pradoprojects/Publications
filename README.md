@@ -1,5 +1,5 @@
 # Phd_Artifacts
-🦅🦅🦅 Artifacts generated during my PhD at Federal University of Goias - Brazil (UFG).
+🦅🦅🦅 Artifacts generated during my PhD.
 
 In this repo you will find my publications during my Ph.D.
 
