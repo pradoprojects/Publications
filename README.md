@@ -1,4 +1,4 @@
-# Phd's Artifacts
+# 📕 | Phd's Artifacts
 
 <div align="center">                                                              
   <img  style="border-radius:50px;" src="./graph.PNG" alt="Graph of qualitative analysis" width="500" height="250">
