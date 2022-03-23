@@ -2,7 +2,7 @@
 
 
 <section>
-<p>Overall, in this project I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of the user experience during the tasks performed.
+<p>In this project I identified and characterized a research problem regarding the lack of user research for testing tools. I planned, conducted, and analyzed a qualitative study of practitioners to further understand the problem in the unit testing domain. The project's results and contributions include a framework and research agenda. They serve as actionable instruments for the testing community to incorporate practical improvements in cognitive support provided by current and future testing tools. Cognitive support is a key concept in offloading the users' memory during tools usage and has a direct impact on the improvement of the user experience during the tasks performed.
 </p>  
 </section>  
   
