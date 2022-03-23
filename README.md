@@ -9,7 +9,9 @@
 <section>
 <h2> Publications </h2>
 <a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Main-publication-JSS-2018.pdf" target="_blank"> >>Link to my Main Publication (JSS, 2018). </a>
+  <br/>
 <a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Main-publication-JSS-2018.pdf" target="_blank"> >>Characterization of lack of cognitive support by visualization testing tools (ISSRE, 2016). </a>
+  <br/>
   <a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Main-publication-JSS-2018.pdf" target="_blank"> >>Lack of research on human factors for software testing (ISSRE, 2015). </a>
 </section>                                                                                                                  
                     
