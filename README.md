@@ -15,7 +15,7 @@
   <a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Prado_ISSRE_2015.pdf" target="_blank"> >>Lack of research on human factors for software testing tools (ISSRE, 2015). </a>
 </section>                                                                                                                  
 
-<div>                                                               
+<div align="center">                                                              
   <img style="border-radius:50px;" src="./graph.PNG" alt="Graph of qualitative analysis" width="800" height="500">
 </div>  
                                                                                               
