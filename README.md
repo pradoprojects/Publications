@@ -16,7 +16,7 @@
 </section>                                                                                                                  
 
 <div>                                                               
-  <img style="border-radius:50px;" src="./ISSRE2015_Slides.pdf" alt="Diagram showing the directory structure for each program">
+  <img style="border-radius:50px;" src="./graph.PNG" alt="">
 </div>  
                                                                                               
 
