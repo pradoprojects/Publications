@@ -15,15 +15,6 @@
   <a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Prado_ISSRE_2015.pdf" target="_blank"> >>Lack of research on human factors for software testing tools (ISSRE, 2015). </a>
 </section>                                                                                                                  
 
-
-<iframe>
-<object data="https://github.com/pradoprojects/Phd_Artifacts/blob/main/IWPD-ISSRE-2016.pdf" width="700px" height="700px">
-    <embed src="https://github.com/pradoprojects/Phd_Artifacts/blob/main/IWPD-ISSRE-2016.pdf">
-        <p>This browser does not support PDFs. Please download a PDF reader to view it.</p>
-    </embed>
-</object>
-
-</iframe>
   
                                                                                               
 
