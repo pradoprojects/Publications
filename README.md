@@ -16,12 +16,14 @@
 </section>                                                                                                                  
 
 
-
+<frame>
 <object data="https://github.com/pradoprojects/Phd_Artifacts/blob/main/IWPD-ISSRE-2016.pdf" width="700px" height="700px">
     <embed src="https://github.com/pradoprojects/Phd_Artifacts/blob/main/IWPD-ISSRE-2016.pdf">
         <p>This browser does not support PDFs. Please download a PDF reader to view it.</p>
     </embed>
 </object>
+
+</frame>
   
                                                                                               
 
