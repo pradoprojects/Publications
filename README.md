@@ -16,7 +16,7 @@
 </section>                                                                                                                  
 
 <iframe
- src="https://github.com/pradoprojects/Phd_Artifacts/blob/main/IWPD-ISSRE-2016.pdf" width="800px" height="2100px"
+ src="https://github.com/pradoprojects/Phd_Artifacts/blob/main/IWPD-ISSRE-2016.pdf" 
 style="width:100%; height:300px;"
 ></iframe>
   
