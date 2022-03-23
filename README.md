@@ -16,7 +16,7 @@
 </section>                                                                                                                  
 
 <div>                                                               
-  <img style="border-radius:50px;" src="./graph.PNG" alt="Graph of qualitative analysis" width="500" height="500">
+  <img style="border-radius:50px;" src="./graph.PNG" alt="Graph of qualitative analysis" width="1000" height="500">
 </div>  
                                                                                               
 
