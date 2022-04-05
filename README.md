@@ -31,6 +31,21 @@
 </ul>
 </section>                                                                                                                  
 
+<section>
+<h2> Useful Links </h2>
+<ul>
+<li>
+<a href="https://ww2.inf.ufg.br/sites/default/files/uploads/doutorado/Tese_corrigida_Marllos_Paiva_Prado.pdf" target="_blank"> Doctoral dissertation (UFG, 2018). </a>
+</li>
+
+<li>
+<a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Prado_IWPD_ISSRE_2016.pdf" target="_blank"> PhD Credential Assessment by University of Toronto (Canada). </a>
+</li>
+
+  
+</ul>
+</section>                                                                                                                  
+
 
                                                                                               
 
