@@ -17,8 +17,8 @@
 <h2> Publications </h2>
 <ul>
 <li>
-<a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Main-publication-JSS-2018.pdf" target="_blank"> Link to my Main Publication (JSS, 2018). </a>
-</li> 🏆
+<a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Main-publication-JSS-2018.pdf" target="_blank"> Link to my Main Publication (JSS, 2018). </a> 🏆
+</li> 
 
 <li>
 <a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Prado_IWPD_ISSRE_2016.pdf" target="_blank"> Characterization of lack of cognitive support in visualization testing tools (ISSRE, 2016). </a>
