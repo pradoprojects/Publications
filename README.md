@@ -25,7 +25,7 @@
 </li>
 
 <li>
-<a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Prado_ISSRE_2015.pdf" target="_blank"> Lack of research on human factors for software testing tools (ISSRE, 2015). </a>
+<a href="https://github.com/pradoprojects/Phd_Artifacts/blob/main/Prado_ISSRE_2015.pdf" target="_blank"> WAP - Cognitive aspects in unit testing: The hunting game and the hunter's perspective (ISSRE, 2015). </a>
 </li>
   
 </ul>
